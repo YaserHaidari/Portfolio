@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "./src/Components/index.html",
-  "homepage": "https://yaserportfolio.me/",
+  "homepage": "https://yaserhaidari.github.io/portfolio/",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
