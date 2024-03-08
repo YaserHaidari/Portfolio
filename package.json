@@ -2,7 +2,7 @@
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
-  "source": "/index.html",
+  "source": "./src/Components/index.html",
   "homepage": "https://yaserportfolio.me/",
   "scripts": {
     "start": "parcel",
