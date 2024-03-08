@@ -53,7 +53,7 @@ section.padding {
 }
 
 section img.background {
-  height: min-content%;
+  height: 100%;
   left: 50%;
   object-fit: cover;
   pointer-events: none;
